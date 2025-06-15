@@ -1,0 +1,16 @@
+﻿ProductID,ProductName,Category,Quantity,UnitPrice,TotalAmount,PaymentMethod,TransactionDate
+P1001,Wireless Mouse,Electronics,1,25,25,Credit Card,2025-06-01
+P1002,Yoga Mat,Fitness,2,15,30,Cash,2025-06-01
+P1003,Blender,Home,1,60,60,Debit Card,2025-06-02
+P1004,NULL,Fitness,3,10,NULL,Mobile Wallet,NULL
+P1005,Notebook,Stationery,5,2,10,Credit Card,2025-06-03
+P1006,Phone Charger,Electronics,1,18,18,UPI,2025-06-03
+P1007,Running Shoes,Footwear,1,75,75,Credit Card,2025-06-04
+P1008,Backpack,Bags,1,40,40,Cash,2025-06-04
+P1009,Sunglasses,Accessories,2,20,40,Debit Card,2025-06-05
+P1010,Bluetooth Speaker,Electronics,1,90,90,Credit Card,2025-06-05
+P1011,Gym Towel,Fitness,2,8,16,Mobile Wallet,2025-06-06
+P1012,Laptop Stand,Electronics,1,35,35,Debit Card,2025-06-06
+P1013,Pen Set,Stationery,3,3,9,UPI,2025-06-07
+P1014,Casual Shirt,Clothing,2,20,40,Cash,2025-06-07
+P1015,Rice Cooker,Home,1,55,55,Credit Card,2025-06-08
